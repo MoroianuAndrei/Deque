@@ -24,4 +24,4 @@ This **C++ Deque Implementation** provides a **dynamic double-ended queue** usin
 5. **Users interact through a menu** to test all functionalities.  
 
 ## 🔧 Technologies Used  
-- **C++** for core logic.
+- **C++** for implementation.
